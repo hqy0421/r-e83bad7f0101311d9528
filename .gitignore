@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+
+.vscode
+.idea
+.venv
+.env
+
+_impuls_workspace
+data_rt
+shape_errors
+ignore*
+warsawgtfs_realtime
+gtfs.zip
+gtfs.*.zip
